@@ -1,0 +1,6 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\Pavel\Desktop\OC\AAAAAAAAAAAA\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(8,1): warning C4005: _CRT_SECURE_NO_WARNINGS: изменение макроопределения
+C:\Users\Pavel\Desktop\OC\AAAAAAAAAAAA\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(8,1): message : "_CRT_SECURE_NO_WARNINGS" ранее объявлен в командной строке
+C:\Users\Pavel\Desktop\OC\AAAAAAAAAAAA\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(105,22): warning C4244: аргумент: преобразование "SOCKET" в "int", возможна потеря данных
+C:\Users\Pavel\Desktop\OC\AAAAAAAAAAAA\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(62,10): warning C4101: sa1: неиспользованная локальная переменная
+  ConsoleApplication1.vcxproj -> C:\Users\Pavel\Desktop\OC\AAAAAAAAAAAA\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
